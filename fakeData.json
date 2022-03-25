@@ -1,24 +1,46 @@
 [
   {
     "id": "123abs01",
+    "name": "Watercolor One",
+    "price": 1000,
+    "seller": "Kibria One",
     "category": "Watercolor Painting",
-    "name": "Watercolor Painting",
-    "seller": "Kibria",
-    "price": 5000,
-    "stock": 20,
+    "stock": 5,
     "ratings": 5,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-    "shipping": 10
+    "shipping": 10,
+    "img": "https://raw.githubusercontent.com/kibria-khandaker/my-api-data/main/img/img1.jpg"
   },
   {
     "id": "123abs02",
-    "category": "Watercolor Painting",
-    "name": "Watercolor Painting",
-    "seller": "Kibria",
-    "price": 4000,
-    "stock": 20,
+    "name": "Watercolor Two",
+    "price": 2000,
+    "seller": "Kibria two",
+    "category": "WTC Painting",
+    "stock": 10,
     "ratings": 4,
-    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-    "shipping": 12
+    "shipping": 8,
+    "img": "https://raw.githubusercontent.com/kibria-khandaker/my-api-data/main/img/img2.jpg"
   },
+  {
+    "id": "123abs03",
+    "name": "Watercolor Three",
+    "price": 500,
+    "seller": "Kibria Three",
+    "category": "Painting",
+    "stock": 5,
+    "ratings": 5,
+    "shipping": 10,
+    "img": "https://raw.githubusercontent.com/kibria-khandaker/my-api-data/main/img/img1.jpg"
+  },
+  {
+    "id": "123abs04",
+    "name": "Watercolor Four",
+    "price": 1500,
+    "seller": "Kibria Four",
+    "category": "Watercolor Four",
+    "stock": 8,
+    "ratings": 5,
+    "shipping": 6,
+    "img": "https://raw.githubusercontent.com/kibria-khandaker/my-api-data/main/img/img4.jpg"
+  }
 ]
