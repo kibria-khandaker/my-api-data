@@ -8,6 +8,7 @@
     "stock": 5,
     "ratings": 5,
     "shipping": 10,
+    "quantity": 0,
     "img": "https://raw.githubusercontent.com/kibria-khandaker/my-api-data/main/img/img1.jpg"
   },
   {
@@ -19,6 +20,7 @@
     "stock": 10,
     "ratings": 4,
     "shipping": 8,
+    "quantity": 0,
     "img": "https://raw.githubusercontent.com/kibria-khandaker/my-api-data/main/img/img2.jpg"
   },
   {
@@ -30,6 +32,7 @@
     "stock": 5,
     "ratings": 5,
     "shipping": 10,
+    "quantity": 0,
     "img": "https://raw.githubusercontent.com/kibria-khandaker/my-api-data/main/img/img3.jpg"
   },
   {
@@ -41,6 +44,7 @@
     "stock": 8,
     "ratings": 5,
     "shipping": 6,
+    "quantity": 0,
     "img": "https://raw.githubusercontent.com/kibria-khandaker/my-api-data/main/img/img4.jpg"
   },
   {
@@ -52,6 +56,7 @@
     "stock": 8,
     "ratings": 5,
     "shipping": 6,
+    "quantity": 0,
     "img": "https://raw.githubusercontent.com/kibria-khandaker/my-api-data/main/img/img5.jpg"
   },
   {
@@ -63,6 +68,7 @@
     "stock": 8,
     "ratings": 5,
     "shipping": 6,
+    "quantity": 0,
     "img": "https://raw.githubusercontent.com/kibria-khandaker/my-api-data/main/img/img6.jpg"
   },
   {
@@ -74,6 +80,7 @@
     "stock": 8,
     "ratings": 5,
     "shipping": 6,
+    "quantity": 0,
     "img": "https://raw.githubusercontent.com/kibria-khandaker/my-api-data/main/img/img7.jpg"
   },
   {
@@ -85,6 +92,7 @@
     "stock": 8,
     "ratings": 5,
     "shipping": 6,
+    "quantity": 0,
     "img": "https://raw.githubusercontent.com/kibria-khandaker/my-api-data/main/img/img8.jpg"
   },
   {
@@ -96,6 +104,7 @@
     "stock": 8,
     "ratings": 5,
     "shipping": 6,
+    "quantity": 0,
     "img": "https://raw.githubusercontent.com/kibria-khandaker/my-api-data/main/img/img9.jpg"
   },
   {
@@ -107,6 +116,7 @@
     "stock": 8,
     "ratings": 5,
     "shipping": 6,
+    "quantity": 0,
     "img": "https://raw.githubusercontent.com/kibria-khandaker/my-api-data/main/img/img10.jpg"
   },
   {
@@ -118,6 +128,7 @@
     "stock": 8,
     "ratings": 5,
     "shipping": 6,
+    "quantity": 0,
     "img": "https://raw.githubusercontent.com/kibria-khandaker/my-api-data/main/img/img11.jpg"
   },
   {
@@ -129,6 +140,7 @@
     "stock": 8,
     "ratings": 5,
     "shipping": 6,
+    "quantity": 0,
     "img": "https://raw.githubusercontent.com/kibria-khandaker/my-api-data/main/img/img12.jpg"
   }
 ]
