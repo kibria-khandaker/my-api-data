@@ -98,7 +98,7 @@
   {
     "id": "123abu09",
     "name": "Strong Man",
-    "price": 1500,
+    "price": 1600,
     "seller": "Golam Kibria",
     "category": "Watercolor",
     "stock": 8,
@@ -110,7 +110,7 @@
   {
     "id": "123abt10",
     "name": "Golden Area",
-    "price": 1500,
+    "price": 1200,
     "seller": "Golam Kibria",
     "category": "Watercolor",
     "stock": 8,
@@ -122,7 +122,7 @@
   {
     "id": "123abr11",
     "name": "The fence",
-    "price": 1500,
+    "price": 2500,
     "seller": "Kanon",
     "category": "Watercolor",
     "stock": 8,
@@ -139,7 +139,7 @@
     "category": "Watercolor",
     "stock": 8,
     "ratings": 5,
-    "shipping": 6,
+    "shipping": 7,
     "quantity": 0,
     "img": "https://raw.githubusercontent.com/kibria-khandaker/my-api-data/main/img/img12.jpg"
   }
